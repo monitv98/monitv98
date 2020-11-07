@@ -1,5 +1,5 @@
 ### Hi there 👋👩🏻‍💻
-Hi, I'm Monica! I'm a software developer.
+Hi, I'm Monica! I'm a software developer who is passionate about mobile technologies and open source.
 
 ### 👧 a little about myself:
 - I'm 22 years old., and I live in Las Palmas de Gran Canaria, ES.
