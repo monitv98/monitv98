@@ -1,6 +1,6 @@
 ### Hi there 👋👩🏻‍💻
 Hi, I'm Monica! I'm a software developer who is passionate about mobile technologies and open source.
-
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### 👧 a little about myself:
 - I'm 22 years old., and I live in Las Palmas de Gran Canaria, ES.
 - I study cross-platform application development.
