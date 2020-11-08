@@ -1,5 +1,5 @@
 ### Hi there 👋👩🏻‍💻
-Hi, I'm Monica! I'm a Full-stack Mobile and Web developer who is passionate about mobile technologies and and open source.
+Hi, I'm Monica! I'm a Mobile and Web developer who is passionate about mobile technologies and and open source.
 ```javascript
 const monitv98 = {
    pronouns: "she" | "her",
