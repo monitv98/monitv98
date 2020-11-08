@@ -11,6 +11,11 @@ Hi, I'm Monica! I'm a software developer who is passionate about mobile technolo
   
 </p>
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:monitvera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monitvera@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 <!--
 **monitv98/monitv98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
