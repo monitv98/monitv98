@@ -21,7 +21,7 @@ const monitv98 = {
 ```
 
 ### 👧 a little about myself:
-- I'm 22 years old., and I live in Las Palmas de Gran Canaria, ES.
+- I'm 22 years old, and I live in Las Palmas de Gran Canaria, ES.
 - I study cross-platform application development.
 
 **Languages and Tools:** 
